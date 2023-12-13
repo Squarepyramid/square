@@ -1,0 +1,1 @@
+(function($){var calltoJoinBtn=$('.calltojoin').html();$('.calltoaction').html(calltoJoinBtn);console.log(calltoJoinBtn)})(jQuery)
